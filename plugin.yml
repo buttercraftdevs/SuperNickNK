@@ -1,0 +1,15 @@
+name: Nicknames-by-SirGames
+version: ${pom.version}
+api: ["1.0.8"]
+author: xXSirGamesXx
+main: me.xxsirgamesxx.nick.Main
+description: Tp commands for buttercraft
+website: buttercraft.ddns.net
+
+commands:
+  nick:
+    description: Nick Command by xXSirGamesXx
+    usage: "/nick <args>"
+  rmnick:
+    description: Nick Command by xXSirGamesXx
+    usage: "/rmnick"
